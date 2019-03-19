@@ -19,7 +19,7 @@ public class Controller {
         BufferedImage image = robot.createScreenCapture(rectangle);
 
         double index = Math.random()*100;
-        ImageIO.write(image, "png", new File("src\\resources\\Screen-"+ index+".png"));
+        ImageIO.write(image, "png", new File("src\\resources\\screens\\Screen-"+ index+".png"));
 
     }
 }
