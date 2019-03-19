@@ -6,4 +6,4 @@ The program consists of one button which makes screenshot.
 
 ![](src/resources/screens/Screen-93.39964842354765.png)
 
-### All screenshots will be saved to a folder src/resources
+### All screenshots will be saved to a folder src/resources/screens
